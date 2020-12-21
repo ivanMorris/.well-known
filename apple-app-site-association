@@ -6,7 +6,7 @@
         "components": [
           {
             "/": "/home/homepodcast/*",
-            "comment": "Matches any URL whose path starts with /home/homepodcast/“
+            "comment": "Matches any URL whose path are pointing to a podcast"
           }
         ]
       }
