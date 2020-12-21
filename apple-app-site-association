@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appID": "6Z4ZTH96B3.com.tritondigital.EstereoAzul-GradaRadio",
+        "appIDs": ["6Z4ZTH96B3.com.tritondigital.EstereoAzul-GradaRadio"],
         "components": [
           {
             "/": "/home/homepodcast/*",
