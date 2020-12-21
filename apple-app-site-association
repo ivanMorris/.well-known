@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "6Z4ZTH96B3.com.tritondigital.EstereoAzul-GradaRadio",
+        "components": [
+          {
+            "/": "/home/homepodcast/*",
+            "comment": "Matches any URL whose path starts with /home/homepodcast/“
+          }
+        ]
+      }
+    ]
+  }
+}
