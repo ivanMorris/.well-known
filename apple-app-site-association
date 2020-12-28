@@ -1,16 +1,19 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": ["6Z4ZTH96B3.com.tritondigital.EstereoAzul-GradaRadio"],
+        "appID": "6Z4ZTH96B3.com.tritondigital.EstereoAzul-GradaRadio",
+        "appIDs": [
+          "6Z4ZTH96B3.com.tritondigital.EstereoAzul-GradaRadio"
+        ],
+        "paths": [
+          "/homepodcast/*"
+        ],
         "components": [
           {
             "/": "/homepodcast/*",
             "comment": "Matches any URL whose path are pointing to a podcast"
-          },
-          {
-            "/": "/home",
-            "comment": "Matches any URL whose path is pointing to the home screen"
           }
         ]
       }
